@@ -222,7 +222,7 @@ df = pd.DataFrame([np.asarray(budgets), np.asarray(accuracy_for_budget_greedy), 
 ax1.plot(df.iloc[:,0],df.iloc[:,1])
     
     
-    sns.lineplot(x="Budget", y="Accuracy_Cost1_Greedy", data=df, ax=ax1, label = "Cost1 Greedy", color="blue")
+sns.lineplot(x="Budget", y="Accuracy_Cost1_Greedy", data=df, ax=ax1, label = "Cost1 Greedy", color="blue")
 sns.lineplot(x="Budget", y="Accuracy_Cost2_Greedy", data=df, ax=ax1, label = "Cost2 Greedy", color="red")
 
 sns.lineplot(x="Budget", y="Accuracy_Cost1_Dynamic",data=df, ax=ax1, label = "Cost1 Dynamic", color="blue", hue="logic", style="logic", markers=["o", "o"])
