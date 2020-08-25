@@ -2,7 +2,7 @@
     width: 50%;
     float: left;
     text-align: center;
-    align:center;
+   
 }
 
 <h4 align="center"> Towards a framework for incorporating data acquisition cost in predictive time series models </h4>
