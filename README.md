@@ -23,7 +23,7 @@ This code introduces a three-stage framework for integrating data acquisition co
 
 The proposed framework is showcased on a synthetic time-series dataset which allows us to control the cost distribution in order to understand how the system works in different scenarios.
 
-<p float="center">
+<p float="left">
   <div class="link"><img alt="Framework" src="https://github.com/adrianstetco/CostFrameworkML/blob/master/signals.png" width=380"></div>
   <div class="link"><img alt="Framework" src="https://github.com/adrianstetco/CostFrameworkML/blob/master/target.png" width=300"></div>
 </p>
