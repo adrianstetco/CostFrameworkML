@@ -1,8 +1,8 @@
 ## Towards a framework for incorporating data acquisition cost in predictive time series models
 
-#### A paper presented at the 6TH WORKSHOP ON MINING AND LEARNING FROM TIME SERIES (MiLeTS)
+<p align="center"> <h4> A paper presented at the 6TH WORKSHOP ON MINING AND LEARNING FROM TIME SERIES (MiLeTS) </h4> </br>
 
-#### KDD 2020
+<h4> KDD 2020</h4></p>
 
 <p align="center">
   <a href="https://kdd-milets.github.io/milets2020/papers/MiLeTS2020_paper_12.pdf">Link to Paper</a></br>
