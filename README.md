@@ -3,9 +3,9 @@
 ## Towards a framework for incorporating data acquisition cost in predictive time series models
 
 <p align="center">
-  [Paper](https://kdd-milets.github.io/milets2020/papers/MiLeTS2020_paper_12.pdf)
-  [Video](https://drive.google.com/file/d/1R4pvN71zCRz3sd4MZQmPYmY6fESLbirM/view)
-  [Slides](https://drive.google.com/file/d/1UMZcCpHieuHXYLDvP-uyMNpfpoa2OHNC/view)
+  <a href="https://kdd-milets.github.io/milets2020/papers/MiLeTS2020_paper_12.pdf">Link to Paper</a></br>
+  <a href="https://drive.google.com/file/d/1R4pvN71zCRz3sd4MZQmPYmY6fESLbirM/view">Presentation clip </a></br>
+  <a href="https://drive.google.com/file/d/1UMZcCpHieuHXYLDvP-uyMNpfpoa2OHNC/view">Slides </a></br>
 </p>
 
 <p>In many real world applications of machine learning, the cost of acquiring measurements varies significantly. As businesses operate in resource-constrained environments, a question that arises is which combination of signals results in the most accurate models given a fixed budget. Conversely, if more accurate models are needed, what signals increase accuracy at lowest cost? This paper introduces a three-stage framework for integrating data acquisition cost into time-series applications based on signal
