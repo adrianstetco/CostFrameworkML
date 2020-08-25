@@ -1,10 +1,3 @@
-.link {
-    width: 50%;
-    float: left;
-    text-align: center;
-   
-}
-
 <h4 align="center"> Towards a framework for incorporating data acquisition cost in predictive time series models </h4>
 
 <h5 align="center"> 6TH WORKSHOP ON MINING AND LEARNING FROM TIME SERIES (MiLeTS) </h5> 
@@ -30,8 +23,8 @@ This code introduces a three-stage framework for integrating data acquisition co
 
 The proposed framework is showcased on a synthetic time-series dataset which allows us to control the cost distribution in order to understand how the system works in different scenarios.
 
-  <div align="center">
+  <palign="center">
   <div class="link"><img alt="Framework" src="https://github.com/adrianstetco/CostFrameworkML/blob/master/signals.png" width=380"></div>
   <div class="link"><img alt="Framework" src="https://github.com/adrianstetco/CostFrameworkML/blob/master/target.png" width=300"></div>
-  </div>
+  </p>
  
