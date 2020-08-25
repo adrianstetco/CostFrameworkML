@@ -1,8 +1,8 @@
-<h3 align="center"> Towards a framework for incorporating data acquisition cost in predictive time series models </h3>
+<h4 align="center"> Towards a framework for incorporating data acquisition cost in predictive time series models </h4>
 
-<h4 align="center"> 6TH WORKSHOP ON MINING AND LEARNING FROM TIME SERIES (MiLeTS) </h4> 
+<h5 align="center"> 6TH WORKSHOP ON MINING AND LEARNING FROM TIME SERIES (MiLeTS) </h5> 
 
-<h4 align="center"> KDD 2020</h4>
+<h5 align="center"> KDD 2020</h5>
 
 <h4 align="center"> A. Stetco, R. Mosincat, G. Nenadic, J. Keane </h4> 
 
